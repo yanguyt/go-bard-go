@@ -4,6 +4,12 @@
 Repository create to consume easily bard api with Go
 
 ## Usage/Examples
+Installed it
+
+```bash
+go get github.com/yanguyt/go-bard-go
+```
+
 It's simple as that, instaciate your Bard interface and get all the answers that you need.
 
 ```go
@@ -21,9 +27,11 @@ func(){
 For more info, feel free to contact me via Github.
 Any suggestions or improvments create your pull request and as soon as possible i will evaluate then.
 
+
 ## Authors
 
 - [@yanguyt](https://www.github.com/yanguyt)
+
 
 ## Tech Stack
 
